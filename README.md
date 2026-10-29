@@ -8,7 +8,7 @@ Interested in AI, Machine Learning, Data Analytics, and Software Development.
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/1XP0iY1vZuSVXxQbyi/giphy.gif" width="260" alt="Arlecchino from Genshin Impact" />
+<img align="right" src="https://media.giphy.com/media/1XP0iY1vZuSVXxQbyi/giphy.gif" width="350" alt="Arlecchino from Genshin Impact" />
 
 ### 🚀 About Me
 
