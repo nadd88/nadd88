@@ -3,7 +3,7 @@
 🎓 3rd Year Software Engineering student with an interest in AI, Machine Learning, Software Development, and Game development.
 
 <p align="center">
-  <img src="https://giphy.com/gifs/pyro-peruere-genshin-impact-1XP0iY1vZuSVXxQbyi" width="600" />
+  <img src="https://media.giphy.com/media/1XP0iY1vZuSVXxQbyi/giphy.gif" width="400" alt="Arlecchino from Genshin Impact" />
 </p>
 
 ## 🚀 About Me
