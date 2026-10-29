@@ -2,6 +2,10 @@
 
 🎓 3rd Year Software Engineering student with an interest in AI, Machine Learning, Software Development, and Game development.
 
+<p align="center">
+  <img src="(https://giphy.com/gifs/pyro-peruere-genshin-impact-1XP0iY1vZuSVXxQbyi)" width="600" />
+</p>
+
 ## 🚀 About Me
 💻 Building projects and learning new technologies
 📊 Exploring Data Analytics and AI applications
